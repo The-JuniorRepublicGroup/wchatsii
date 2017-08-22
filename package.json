@@ -1,0 +1,15 @@
+{
+  "name": "wchattsi",
+  "version": "1.0.0",
+  "description": "Chat Application with a twist",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Raphael Okafor Jr",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "socket.io": "^2.0.3"
+  }
+}
